@@ -6,7 +6,7 @@ container_groups = {
     memory              = 1.5
     port_protocol       = "TCP"
     port                = 80
-	os_type             = "Linux"
+    os_type             = "Linux"
     environment_variables = {}
   }
   container-group2 = {
