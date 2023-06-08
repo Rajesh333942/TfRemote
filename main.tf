@@ -1,4 +1,4 @@
-module "test-module" {
+module "TfRemote" {
   source = "github.com/Rajesh333942/TfRemote"
   container_groups    = var.container_groups
   resource_group_name = var.resource_group_name
